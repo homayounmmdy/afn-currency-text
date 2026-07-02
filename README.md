@@ -5,6 +5,7 @@
 [![npm version](https://img.shields.io/npm/v/afn-currency-text.svg)](https://www.npmjs.com/package/afn-currency-text)
 [![license](https://img.shields.io/npm/l/afn-currency-text.svg)](https://github.com/homayounmmdy/afn-currency-text/blob/main/LICENSE)
 [![npm downloads](https://img.shields.io/npm/dt/afn-currency-text.svg)](https://www.npmjs.com/package/afn-currency-text)
+[![CI / Testing](https://github.com/homayounmmdy/afn-currency-text/actions/workflows/ci.yml/badge.svg)](https://github.com/homayounmmdy/afn-currency-text/actions/workflows/ci.yml)
 
 ## 🚀 Why this package?
 
