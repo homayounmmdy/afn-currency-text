@@ -1,22 +1,53 @@
 {
   "name": "afn-currency-text",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Convert numbers to legal Afghan Afghani (AFN) words in Dari and Pashto. Perfect for invoices, banking, and legal documents. Supports decimals (puls).",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "rimraf dist && tsc",
     "prepare": "npm run build",
     "test": "jest",
     "test:watch": "jest --watch"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homayounmmdy/afn-currency-text.git"
+  },
+  "keywords": [
+    "afghan",
+    "afghani",
+    "afn",
+    "currency",
+    "number-to-words",
+    "dari",
+    "pashto",
+    "persian",
+    "farsi",
+    "invoicing",
+    "banking",
+    "legal-documents",
+    "puls",
+    "typescript",
+    "legacy",
+    "ie-compatible",
+    "es5",
+    "accounting"
+  ],
   "author": {
     "name": "Homayoun Mohammadi",
     "username": "homayounmmdy",
     "email": "homayoun763@gmail.com",
     "url": "https://github.com/homayounmmdy"
   },
-  "license": "ISC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/homayounmmdy/afn-currency-text/issues"
+  },
+  "homepage": "https://github.com/homayounmmdy/afn-currency-text#readme",
   "devDependencies": {
     "@types/jest": "^30.0.0",
     "@types/node": "^26.1.0",
