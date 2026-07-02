@@ -1,0 +1,23 @@
+{
+  "name": "afn-currency-text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rimraf dist && tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Homayoun Mohammadi",
+    "username": "homayounmmdy",
+    "email": "homayoun763@gmail.com",
+    "url": "https://github.com/homayounmmdy"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^26.1.0",
+    "rimraf": "^6.1.3",
+    "typescript": "^6.0.3"
+  }
+}
